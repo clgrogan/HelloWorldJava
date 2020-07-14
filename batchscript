@@ -1,0 +1,4 @@
+javac HelloWorld.java
+javac PracticeHelloWorld.java
+java HelloWorld
+java PracticeHelloWorld 'Input String Value 1'
