@@ -1,4 +1,7 @@
-javac HelloWorld.java
-javac PracticeHelloWorld.java
+
+javac *.java
+
 java HelloWorld
 java PracticeHelloWorld 'Input String Value 1'
+
+rm *.class
